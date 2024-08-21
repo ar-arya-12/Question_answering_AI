@@ -1,7 +1,7 @@
 ## Question_answering
 
 ### Objective 
-This repository contains a web application built using Streamlit that integrates a Google Large language model "Gemin". The application allows users to input questions and receive AI-generated responses in real-time.
+This repository contains a web application built using Streamlit that integrates a Google Large language model "Gemini". The application allows users to input questions and receive AI-generated responses in real-time.
 
 ### Tasks
 
